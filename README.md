@@ -9,10 +9,13 @@ We provide a notebook with a simplified calculation.
 
 <div align="center">
   <h4>Universal Harmony</h4>
-  <audio controls>
-    <source src="https://github.com/FrancescoIacovelli/universal_harmony/raw/main/output_audio_universal_harmony_all.wav" type="audio/wav">
-    Your browser does not support the audio element.
-  </audio>
+  <iframe src="https://drive.google.com/file/d/1nOT6bfZElwTiuPQ11QHk2h8okIcAM3p0/preview" 
+          width="100%" 
+          height="200" 
+          allow="autoplay"
+          frameborder="0"
+          style="border:none;max-width: 640px;">
+  </iframe>
   <br>
   <i>The Universe's debut album, billions of years in the making.</i>
   <br>
