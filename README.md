@@ -9,13 +9,7 @@ We provide a notebook with a simplified calculation.
 
 <div align="center">
   <h4>Universal Harmony</h4>
-  <iframe src="https://drive.google.com/file/d/1nOT6bfZElwTiuPQ11QHk2h8okIcAM3p0/preview" 
-          width="100%" 
-          height="200" 
-          allow="autoplay"
-          frameborder="0"
-          style="border:none;max-width: 640px;">
-  </iframe>
+  ### [Listen Online](https://francescoiacovelli.github.io/universal_harmony/)
   <br>
   <i>The Universe's debut album, billions of years in the making.</i>
   <br>

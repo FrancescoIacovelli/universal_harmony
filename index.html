@@ -5,9 +5,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>The Universal Harmony</title>
     
-    <!-- MathJax for LaTeX rendering -->
-    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <!-- MathJax Configuration -->
+    <script>
+        MathJax = {
+            tex: {
+                inlineMath: [['\\(', '\\)']],
+                displayMath: [['\\[', '\\]']],
+                processEscapes: true,
+                processEnvironments: true
+            },
+            options: {
+                skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+            }
+        };
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" id="MathJax-script" async></script>
     
     <style>
         body {
@@ -128,7 +140,7 @@
     <p class="subtitle">The Universe's debut album, billions of years in the making.</p>
     
     <audio controls preload="auto">
-        <source src="output_audio_universal_harmony_all.wav" type="audio/wav">
+        <source src="https://github.com/FrancescoIacovelli/universal_harmony/raw/main/output_audio_universal_harmony_all.wav" type="audio/wav">
         Your browser does not support the audio element.
     </audio>
     
