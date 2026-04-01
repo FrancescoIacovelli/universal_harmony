@@ -1,7 +1,8 @@
+[![arXiv](https://img.shields.io/badge/arXiv-2603.29996-b31b1b.svg)](https://arxiv.org/abs/2603.29996)
 # universal_harmony
 Compute the average sound of the binary systems in the Universe!
 
-For the details, see the associated paper.
+For the details, see the associated paper on arXiv: [2603.29996 [gr-qc]](https://arxiv.org/abs/2603.29996).
 
 We provide a notebook with a simplified calculation.
 
@@ -29,7 +30,7 @@ All occurring in one year and averaged into 10-minute segments.
 
 #### The Science
 
-Gravitational waves from merging compact objects observable by current ground-based gravitational-wave experiments produce audible chirps in the frequency range $f \gtrsim 20$ Hz. Due to the power-law nature of the gravitational-wave strain, $|\tilde{h}| \propto f^{-7/6}$, the Universe prefers bass to treble, resulting in a low-frequency rumble dominated by binary black hole mergers.
+Gravitational waves from merging compact objects observable by current ground-based gravitational-wave experiments produce audible chirps in the frequency range $f \gtrsim 20\,\textrm{Hz}$. Due to the power-law nature of the gravitational-wave strain, $|\tilde{h}| \propto f^{-7/6}$, the Universe prefers bass to treble, resulting in a low-frequency rumble dominated by binary black hole mergers.
 
 #### Recommended Listening
 
